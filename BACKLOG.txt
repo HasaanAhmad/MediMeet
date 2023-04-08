@@ -1,0 +1,33 @@
+REVISION 0.1: CREATED BY MUJTABA @APRIL 8, 2023
+
+GENERAL DEVELOPMENT BACKLOG
+
+NOTICE: THE SOFTWARE WILL USE INCREMENTAL-STYLE DEVELOPMENT MODEL IN WHICH A WORKING SOFTWARE WILL BE DEVELOPED
+AFTER EACH INCREMENT. THE NEXT STAGE WILL BE BASED DIRECTLY ON THE EXISTING VERSION. UNIT TESTS, INTERGRATION TESTS
+AND VALIDATION TESTS APPLY TO EACH INCREMENT.
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+VERSION 0.1 BACKLOG (Modified April 8, 2023):
+
+1. Java server will be developed with API endpoints for /login, /signup, /create_appointment
+   and /search_doctor. -- These API endpoints will be called by the Java language client to display
+   and modify the content.
+   Responsibility of @Mujtaba (mujtaba-io) to develop this server.
+
+2. Java language client will be developed which will use the above mentioned APIs to view/edit/display
+   the data. For stub purposes, initially data will be displayed only using print statements until the
+   GUI portion is completed.
+   Responsibility of @Hasaan () to develop this API communication module.
+
+3. GUI for the above function needs to be designed and implemented. It should be such that no more than
+   basic data will be displayed such as doctor/patients's name and IDs. The detailed data will be displayed
+   during the 2nd increment.
+   Responsibility of @Haider () to develop this GUI.
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+VERSION 0.2 BACKLOG (Modified null):
+
+1. null
