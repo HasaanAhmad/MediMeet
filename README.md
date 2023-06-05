@@ -47,6 +47,20 @@ git clone https://github.com/your-username/MediMeet.git
 
 3. Build the project and resolve any dependencies.
 
+## GUI Screenshots
+**Main Page** 
+![image](https://github.com/HasaanAhmad/MediMeet/assets/95031417/2d0b3983-fab2-4879-9627-21c7504fefbf)
+**Admin Panel**
+![image](https://github.com/HasaanAhmad/MediMeet/assets/95031417/bf8e8500-20d3-433f-99e9-5fb74807be2a)
+**Doctor Dashboard of appointments**
+![image](https://github.com/HasaanAhmad/MediMeet/assets/95031417/b5ec992e-65bd-402d-959b-94010ffb8060)
+**Doctor Prescribing**
+![image](https://github.com/HasaanAhmad/MediMeet/assets/95031417/fd1446f8-f2bb-407a-971e-b65eef094d83)
+**Patient Appointment Menu**
+![image](https://github.com/HasaanAhmad/MediMeet/assets/95031417/89da280d-6e73-4eb3-a934-7e62f4b20fac)
+
+
+
 ## License
 
 This software solution is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
