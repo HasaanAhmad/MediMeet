@@ -23,6 +23,8 @@ The Doctor Appointment Management System is a comprehensive and user-friendly Ja
 
 ~StorableAdapter contains the serialization (db) parent file and some of its test.
 
+ALL MY FRIENDS ARE TOXIC ALL AMBITIONLESS SO RUDE AND ALWAYS NEGATIVE I NEED NEW FRIENDS
+
 ## Authors
 
 1. Mujtaba SP22-BSE-036
