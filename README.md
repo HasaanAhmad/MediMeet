@@ -47,8 +47,6 @@ git clone https://github.com/your-username/MediMeet.git
 
 3. Build the project and resolve any dependencies.
 
-4. Run the application and access it through your web browser.
-
 ## License
 
 This software solution is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
