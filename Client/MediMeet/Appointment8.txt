@@ -1,0 +1,6 @@
+Appointment ID: 8
+Doctor Name: Hashim
+Patient Name: Haider
+Appointment Date: Sun Jun 04 13:52:27 PKT 2023
+Appointment Fee: 1000
+Prescription: Panadol

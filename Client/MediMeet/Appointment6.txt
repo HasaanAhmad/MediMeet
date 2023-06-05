@@ -1,0 +1,6 @@
+Appointment ID: 6
+Doctor Name: Hashim
+Patient Name: Haider
+Appointment Date: Sun Jun 04 09:17:51 PKT 2023
+Appointment Fee: 1000
+Prescription: Byscard 2.5 Mg

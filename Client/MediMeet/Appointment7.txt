@@ -1,0 +1,6 @@
+Appointment ID: 7
+Doctor Name: jhdsf
+Patient Name: Patient
+Appointment Date: Sun Jun 04 12:10:38 PKT 2023
+Appointment Fee: 1000
+Prescription: 

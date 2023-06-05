@@ -1,0 +1,6 @@
+Appointment ID: 9
+Doctor Name: jhdsf
+Patient Name: Patient
+Appointment Date: Sun Jun 04 19:00:35 PKT 2023
+Appointment Fee: 1000
+Prescription: Ja ka achy doctor ko dikhao

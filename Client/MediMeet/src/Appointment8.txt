@@ -1,0 +1,6 @@
+Appointment ID: 8
+Doctor Name: 32
+Patient Name: 60
+Appointment Date: Wed May 31 11:03:36 PDT 2023
+Appointment Fee: 1000
+Prescription: fgfgfgfg

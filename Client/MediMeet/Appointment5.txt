@@ -1,0 +1,6 @@
+Appointment ID: 5
+Doctor Name: Hashim
+Patient Name: Haider
+Appointment Date: Sun Jun 04 09:11:17 PKT 2023
+Appointment Fee: 1000
+Prescription: Lipiget 10Mg
