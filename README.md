@@ -20,6 +20,7 @@ The Doctor Appointment Management System is a comprehensive and user-friendly Ja
 
 ## Folder Strucutre
 ~Client/Medimeet contains the Source code of the main program along with gui and everything implimented
+
 ~StorableAdapter contains the serialization (db) parent file and some of its test.
 
 ## Authors
